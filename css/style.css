@@ -1,1 +1,7 @@
 /* New style.csss file created. Add your CSS rules below. */
+body {
+    background-color:cornsilk;
+    text-align: left;
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
