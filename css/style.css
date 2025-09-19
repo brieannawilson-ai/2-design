@@ -1,7 +1,37 @@
 /* New style.csss file created. Add your CSS rules below. */
 body {
-    background-color:cornsilk;
+    background-color:rgb(246, 251, 107);
     text-align: left;
     font-size: 20px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    img {
+  width: 50%;
+  border-radius: 12px;
+  display: block;
+  margin: auto;
+}
+}
+/* I have class "header" for my headings and class " */
+.header {
+  color: blue;
+}
+.images {
+  border: 5px solid blue;
+  border-radius: 12px;
+  display: block;
+  margin: auto;
+}
+/* I have my two IDs; "opportunities" and "courses", I just need to style them */
+#opportunities {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#courses {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
