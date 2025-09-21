@@ -21,8 +21,8 @@ body {
   display: block;
   margin: auto;
 }
-/* I have my two IDs; "opportunities" and "courses", I just need to style them */
-#opportunities {
+/* I have my two IDs; "ProgramOverview" and "courses", I just need to style them */
+#ProgramOverview{
     background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
     border-radius: 8px;
