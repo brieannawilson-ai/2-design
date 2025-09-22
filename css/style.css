@@ -10,8 +10,7 @@ body {
   display: block;
   margin: auto;
 }
-}
-/* I have class "header" for my headings and class " */
+}/* I have class "header" for my headings and class " */
 .header {
   color: blue;
 }
@@ -30,8 +29,9 @@ body {
 }
 
 #courses {
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
+      display: flex;
+      gap: 1rem; /* make sections take equal space */
+      background-color: #f5f5f5;
+      padding: 10px;
+      border-radius: 3px;
+    }
